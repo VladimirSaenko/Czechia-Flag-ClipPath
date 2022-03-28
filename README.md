@@ -4,6 +4,6 @@
 
 ## About Czech
 
-### Страна в Центральной Европе, славится своими изысканно украшенными замками, богатой историей и пивом.
+### Страна в Центральной Европе без выхода к морю, славится своими замками, богатой историей пивоварения и горным ландшафтом.
 
-### A country in Central Europe, famous for its ornate castles, rich history and beer.
+### A country in Central Europe without access to the sea, famous for its castles, rich history of brewing and mountainous landscape. 
