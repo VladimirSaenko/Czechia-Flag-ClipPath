@@ -9,9 +9,9 @@
 body {
     height: 300vh;
     background: url(images/bg.jpg);
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
+    background-position: center !important;
+    background-size: cover !important;
+    background-attachment: fixed !important;
 }
 
 section {
@@ -39,4 +39,10 @@ section .side#side2 {
     border-top: 50vh white solid;
     background: red;
     clip-path: polygon(100% 100%, 0 100%, 40% 51%, 0 0, 100% 0);
-} 
+}
+
+@media screen and (min-width: 300px) and (max-width: 800px) {
+    body {
+        background: url(images/bg2.jpg);
+    }
+}
